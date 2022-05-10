@@ -2,7 +2,8 @@
 - 📫 How to reach me: Shoot me an email -> @cyrus.wickersham13@gmail.com
 - Check out my stats below!
 - [![Cyrus' GitHub stats](https://github-readme-stats.vercel.app/api?username=cyrusw213&hide=prs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrusw213)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrusw213&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
