@@ -1,4 +1,4 @@
-- 👋 Hi! I’m interested in full stack development and am currently a Software Engineering student learning JavaScript, CSS, HTML, AJAX, jQuery, Python, and Django. 
+- I'm currently an Application Support Engineer. These are my personal projects. 
 
 - 📫 How to reach me: Shoot me an email -> @cyrus.wickersham13@gmail.com
 
